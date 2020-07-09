@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ## About me:
-* :student: I am a third-year undergraduate pursuing B.E. in Ramaiah Institute of Technology, Bengaluru.
-* :fire: I have huge interest in App development using Flutter. My other areas of interest include Full-Stack Web Development, React.js, Google Actions,<a href="https://medium.com/@ujjwal.msrit"> Blogging(related to tech)</a>, Video Editing using Adobe Premier Pro.
+* :student: I am a <strong>third-year undergraduate</strong> pursuing <strong>B.E.</strong> in Ramaiah Institute of Technology, Bengaluru.
+* :fire: I have huge interest in <strong>App development using Flutter</strong>. My other areas of interest include <strong>Full-Stack Web Development, React.js, Google Actions</strong>, System Design, <a href="https://medium.com/@ujjwal.msrit"> Blogging(related to tech)</a>, Video Editing using Adobe Premier Pro.
 * I spend my free time reading novels :books: and making music :musical_note: especially EDMs.
-* I have worked as a Full-Stack development intern @ <a href="http://mytasi.com">mytasi.com</a>:bike: where I helped the team in coming up with the website.
+* I have worked as a <strong>Full-Stack development intern</strong> @ <a href="http://mytasi.com">mytasi.com</a>:bike: where I helped the team in coming up with the website.
 * I am looking for full-time as well as internsip opportunities in Software Development.
-
+* Ask me about App development, Web Technologies, Chatbot, System Design Concepts.
 
 <!--
 **ayush1612/ayush1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
