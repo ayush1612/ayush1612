@@ -15,7 +15,7 @@
   <p align="center">
         <a href="https://www.linkedin.com/in/ayush-ujjwal-15496016b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ujjwal.msrit@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  </p>
+      </p>
 </p>
 <!--
 **ayush1612/ayush1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
