@@ -11,7 +11,7 @@
 
 <hr>
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=ayush1612&&show_icons=true&title_color=00ffe5&icon_color=00ffe5&text_color=daf7dc&bg_color=191919" alt="ayush-ujjwal-stats">
+
 
 <p align="center">
         <a href="https://www.linkedin.com/in/ayush-ujjwal-15496016b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
