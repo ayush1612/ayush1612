@@ -6,7 +6,6 @@
 * I spend my free time reading novels(psychology, humanity and thriller) :books: and making music :musical_note: especially EDMs.
 * I have worked as a <strong>Full-Stack development intern</strong> @ <a href="http://mytasi.com">mytasi.com</a>:bike: where I helped the team in coming up with the website.
 * 🤔 I am looking for full-time as well as internsip opportunities in Software Development.
-* 💬 Ask me about App development, Web Technologies, Chatbot, System Design Concepts.
 
 
 <hr>
