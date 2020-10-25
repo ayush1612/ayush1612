@@ -2,9 +2,8 @@
 
 ## About me:
 * :student: I am a <strong>fourth-year undergraduate</strong> pursuing <strong>B.E.</strong> in Ramaiah Institute of Technology, Bengaluru.
-* :fire: I have a huge interest in <strong>App development using Flutter</strong>. My other areas of interest include <strong>Full-Stack Web Development, React.js, Google Actions</strong>, System Design, <a href="https://medium.com/@ujjwal.msrit"> Blogging</a>, Video Editing using Adobe Premier Pro.
 * I spend my free time reading novels(psychology, humanity and thriller) :books: and producing music :musical_note: especially EDMs and Electronic.
-* I have worked as a <strong>Full-Stack development intern</strong> @ <a href="http://mytasi.com">mytasi.com</a>:bike: where I helped the team in coming up with the website.
+* Ask me about <b>App development</b> using <b>Flutter</b> and <b>voice assistants</b> using <b>Actions on Google</b>
 
 
 <hr>
