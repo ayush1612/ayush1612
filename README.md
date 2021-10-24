@@ -3,7 +3,7 @@
 ## About me:
 * :student: I am a <strong>fourth-year undergraduate</strong> pursuing <strong>B.E.</strong> in Ramaiah Institute of Technology, Bengaluru.
 * I spend my free time reading novels(psychology, humanity and thriller) :books: and producing music :musical_note: especially EDMs(Melodic House).
-* Ask me about <b>App development</b> using <b>Flutter</b> and <b>voice assistants</b> using <b>Actions on Google</b>
+* Ask me about Python, Terraform, and Web development related technologies.
 
 
 <hr>
