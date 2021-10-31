@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me:
-* :student: I am a <strongSoftware Engineer</strong> at Smarsh.
+* :student: I am a <strong>Software Engineer</strong> at Smarsh.
 * I spend my free time reading novels(psychology, humanity and thriller) :books: and producing music :musical_note: especially EDMs(Melodic House).
 * Ask me about Python, Terraform, and Web development related technologies.
 
