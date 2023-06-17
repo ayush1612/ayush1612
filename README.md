@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ## About me:
-* I am a <strong>Software Engineer</strong> at Smarsh. :computer:
-* I spend my free time reading novels(psychology, humanity and thriller) :books: and producing music :musical_note: especially EDMs(Melodic House).
-* Ask me about Python, Terraform, and Web development related technologies.
+* I am a <strong>Site Reliability Engineer</strong> at Smarsh. :computer:
+* Ask me about automation, IaC, Configuration management, Observability and DevOps practises.
 
 
 <hr>
