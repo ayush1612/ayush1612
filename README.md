@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ## About me:
-* I am a <strong>Site Reliability Engineer</strong> at Smarsh. :computer:
-* Ask me about automation, IaC, Configuration management, Observability and DevOps practises.
+* Engineer building reliable solutions at scale.
 
 
 <hr>
